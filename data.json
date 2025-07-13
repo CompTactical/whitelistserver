@@ -1,0 +1,36 @@
+{
+  "owners": {
+    "752175684465721355": "abyss"
+  },
+  "stores": {
+    "abyss": {
+      "owner_id": "752175684465721355",
+      "products": {
+        "combat_support": {
+          "whitelist": [
+            6899521
+          ]
+        },
+        "noob": {
+          "whitelist": []
+        }
+      }
+    },
+    "centi_store": {
+      "owner_id": null,
+      "products": {
+        "cs": {
+          "whitelist": []
+        },
+        "haho": {
+          "whitelist": []
+        }
+      }
+    }
+  },
+  "staff": [
+    "1063039105157562419",
+    "955624595132657684"
+  ],
+  "blacklist": []
+}
